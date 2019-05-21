@@ -1,0 +1,9 @@
+.html,body{
+	background-color:linear-gradient(#0ff,#09f);
+}
+
+.text{
+	margin:auto;
+	width:600px;
+	background-color:#ffffff55;
+}

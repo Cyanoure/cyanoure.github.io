@@ -4,12 +4,13 @@ html,body{
 	height:100%;
 	margin:0px;
 	padding:0px;
+	overflow:auto;
 }
 
 .text{
 	margin:auto;
 	width:500px;
-	background-color:#ffffff55;
+	background-color:rgba(255,255,255,0.8);
 	margin-top:50px;
 	border:1px solid #333;
 	border-radius:5px;

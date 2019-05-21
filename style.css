@@ -2,6 +2,8 @@ html,body{
 	background-color:linear-gradient(#0ff,#09f);
 	width:100%;
 	height:100%;
+	margin:0px;
+	padding:0px;
 }
 
 .text{
